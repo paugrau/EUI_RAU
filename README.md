@@ -15,6 +15,10 @@ Some potentially useful resources:
 ## Data cleaning
 * https://kbroman.org/Talk_DataCleaning2023/data_cleaning.pdf
 
+### R packages
+
+* https://cran.r-project.org/web/packages/janitor/vignettes/janitor.html
+
 ## Data visualization
 
 * https://www.data-to-viz.com
