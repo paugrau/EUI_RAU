@@ -25,5 +25,9 @@ Some potentially useful resources:
 * https://r-spatial.org/r/2018/10/25/ggplot2-sf.html
 
 ## Data analysis
+* https://lakens.github.io/statistical_inferences/
 
-* https://marginaleffects.com
+### R packages
+
+* Report results: https://modelsummary.com/index.html
+* Marginal effects (eg interactions): https://marginaleffects.com
