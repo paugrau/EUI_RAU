@@ -31,7 +31,8 @@ Some potentially useful resources:
 
 ## Data analysis
 * https://lakens.github.io/statistical_inferences/
-
+* https://www.mixtapesessions.io/sessions/
+  
 ### R packages
 
 * Report results: https://modelsummary.com/index.html
