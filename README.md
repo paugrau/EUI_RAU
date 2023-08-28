@@ -40,3 +40,4 @@ Some potentially useful resources:
 ## Misc
 
 * https://egap.org/methods-guides/
+* [The ~~Epidemiologist~~ Political Scientist R Handbook](https://epirhandbook.com/en/index.html)
