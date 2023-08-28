@@ -29,9 +29,15 @@ Some potentially useful resources:
 * https://cengel.github.io/R-spatial/mapping.html
 * https://r-spatial.org/r/2018/10/25/ggplot2-sf.html
 
+## Research Design
+
+* https://theeffectbook.net
+* https://mixtape.scunning.com
+* https://www.mixtapesessions.io/sessions/
+
+
 ## Data analysis
 * https://lakens.github.io/statistical_inferences/
-* https://www.mixtapesessions.io/sessions/
   
 ### R packages
 
