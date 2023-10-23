@@ -45,6 +45,6 @@ Some potentially useful resources:
 * Marginal effects (eg interactions): https://marginaleffects.com
 
 ## Misc
-
+* https://tilburgsciencehub.com
 * https://egap.org/methods-guides/
 * [The ~~Epidemiologist~~ Political Scientist R Handbook](https://epirhandbook.com/en/index.html)
