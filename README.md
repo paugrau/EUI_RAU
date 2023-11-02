@@ -31,8 +31,11 @@ Some potentially useful resources:
 
 ## Research Design
 
+Two great books on Causal Inference. The Mixtape has an emphasis on the maths beyond it, while The Effect might be more hands-on. Both provide snippets of code for the analyses.
 * https://theeffectbook.net
 * https://mixtape.scunning.com
+
+To delve more into the specifics of different methods, the Mixtape Sessions are an incredible resource. Provides [slides and code](https://github.com/Mixtape-Sessions/).
 * https://www.mixtapesessions.io/sessions/
 
 
@@ -46,5 +49,6 @@ Some potentially useful resources:
 
 ## Misc
 * https://tilburgsciencehub.com
+  * On how to create a [website](https://tilburgsciencehub.com/tutorials/code-like-a-pro/hugo-website/hugo-website-overview/).
 * https://egap.org/methods-guides/
 * [The ~~Epidemiologist~~ Political Scientist R Handbook](https://epirhandbook.com/en/index.html)
