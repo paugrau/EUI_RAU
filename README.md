@@ -52,3 +52,4 @@ To delve more into the specifics of different methods, the Mixtape Sessions are 
   * On how to create a [website](https://tilburgsciencehub.com/tutorials/code-like-a-pro/hugo-website/hugo-website-overview/).
 * https://egap.org/methods-guides/
 * [The ~~Epidemiologist~~ Political Scientist R Handbook](https://epirhandbook.com/en/index.html)
+* General advice (also technical) on writing: https://macartan.github.io/teaching/how-to-write
