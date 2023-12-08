@@ -38,6 +38,9 @@ Two great books on Causal Inference. The Mixtape has an emphasis on the maths be
 To delve more into the specifics of different methods, the Mixtape Sessions are an incredible resource. Provides [slides and code](https://github.com/Mixtape-Sessions/).
 * https://www.mixtapesessions.io/sessions/
 
+### Difference in differences
+
+* Repository of recent advances in DiD methods, focus on its application: https://asjadnaqvi.github.io/DiD/
 
 ## Data analysis
 * https://lakens.github.io/statistical_inferences/
