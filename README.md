@@ -10,7 +10,7 @@ Some potentially useful resources:
 
 * https://cghlewis.com/blog/data_mgmt_resources/
 * https://cghlewis.com/blog/data_clean_02/
-* Data Organization in Spreadsheets [(Broman & Woo, 2017)](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
+* Essential resource to think about how to organize data in speadsheets and why: [(Broman & Woo, 2017)](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 ## Data cleaning
 * https://kbroman.org/Talk_DataCleaning2023/data_cleaning.pdf
@@ -53,3 +53,7 @@ To delve more into the specifics of different methods, the Mixtape Sessions are 
 * https://egap.org/methods-guides/
 * [The ~~Epidemiologist~~ Political Scientist R Handbook](https://epirhandbook.com/en/index.html)
 * General advice (also technical) on writing: https://macartan.github.io/teaching/how-to-write
+
+### Webscraping
+Using R, generally you can use the package "rvest" for static pages or "RSelenium" for dynamic ones. Before scrapping, take into account ethical and legal considerations (eg. respecting website terms of service, avoiding server overload, and ensuring compliance with legal regulations), this [guide](https://finddatalab.com/ethicalscraping) provides an introduction.
+* These fantastic [slides](https://www.rselenium-teaching.etiennebacher.com/#/title-slide) by Etienne Bacher provides almost all that is necessary to successfully extract information from static and dynamic webpages.
