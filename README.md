@@ -56,6 +56,7 @@ To delve more into the specifics of different methods, the Mixtape Sessions are 
 * https://egap.org/methods-guides/
 * [The ~~Epidemiologist~~ Political Scientist R Handbook](https://epirhandbook.com/en/index.html)
 * General advice (also technical) on writing: https://macartan.github.io/teaching/how-to-write
+* Effective abstracts: https://www.fabriziogilardi.org/resources/papers/good-abstracts.pdf
 
 ### Webscraping
 Using R, generally you can use the package "rvest" for static pages or "RSelenium" for dynamic ones. Before scrapping, take into account ethical and legal considerations (eg. respecting website terms of service, avoiding server overload, and ensuring compliance with legal regulations), this [guide](https://finddatalab.com/ethicalscraping) provides an introduction.
