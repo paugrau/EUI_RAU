@@ -43,6 +43,7 @@ To delve more into the specifics of different methods, the Mixtape Sessions are 
 * Repository of recent advances in DiD methods, focus on its application: https://asjadnaqvi.github.io/DiD/
 
 ## Data analysis
+* [MLU-EXPLAIN](https://mlu-explain.github.io): Visual explanations of core machine learning concepts. Including [OLS](https://mlu-explain.github.io/linear-regression/), and [logistic regression](https://mlu-explain.github.io/logistic-regression/). 
 * https://lakens.github.io/statistical_inferences/
   
 ### R packages
